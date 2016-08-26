@@ -1,0 +1,11 @@
+name: DisplayMoneyWithName
+main: DisplayMoneyWithName\DisplayMoneyWithName
+version: 1
+api: [0.15.6]
+load: POSTWORLD
+author: XShovel54
+authors: [XShovel54]
+description: "Display money with username"
+website: "https://github.com/XShovel54"
+depend:
+ - PocketMoney
